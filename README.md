@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dIwnsgml&label=Profile%20views&color=0e75b6&style=flat" alt="dIwnsgml" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dIwnsgml" alt="dIwnsgml" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dIwnsgml" alt="dIwnsgml" /></a> </p>-->
 
 - 🌱 I’m currently learning **Nodejs, socket.io**
 
