@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dIwnsgml&show_icons=true&locale=en" alt="dIwnsgml" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dlwnsgml" alt="GitHub Streak" /></a>
+<a href="https://streak-stats.demolab.com/?user=dIwnsgml"><img src="https://streak-stats.demolab.com?user=dIwnsgml" alt="GitHub Streak" /></a>
